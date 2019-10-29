@@ -24,4 +24,3 @@ console.log(dog);
 console.log(dog.bark());
 console.log(dog.getName() === 'Aban');
 console.log(dog.bark() === 'Dog Aban is barking');
-
